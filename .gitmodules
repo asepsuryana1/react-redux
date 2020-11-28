@@ -1,0 +1,3 @@
+[submodule "firebase-graphQL"]
+	path = firebase-graphQL
+	url = https://github.com/asepsuryana1/firebase-graphQL.git
